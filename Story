@@ -1,0 +1,28 @@
+name=input("Choose a name")
+animal=input("Choose an animal")
+country=input("Where do you want to go?")
+print("Ok, great.")
+adj=input("Now describe your self with one word")
+adj2=input("Now describe the environment of your school with one word!")
+adj3=input("Describe how you feel when you fail a test with one word!")
+print("Ok, now let's proceed onto verbs.")
+verb=input("Choose a verb in the past tense")
+verb2=input("Would you prefer swimming or floating in the ocean?")
+verb3=input("Are you more fond of painting or drawing?")
+print("Ok, thats great to know")
+print("Here is a story about a girl who fell so into love with her art, it cost her, her life.")
+print("There was once an artist who went by the name " + (name) + "." )
+print((name) + " loved their beloved " + (animal) + "so much that she was always brought around where " + (name) + " went" )
+print("Eventually, " + (name) + "went to " + (country) + "and brought " + (animal) + " along.")
+print ("In " + (country) + " the two of them lived a " + (adj2) + " life.")
+print("Regardless of " + (name) + " being a very talented artist, they were still a very young " + (adj) + " child.")
+print("One day " + (name) + " was enraged and became very " + (adj3) + " with their " + (verb3))
+print((name) + " became so mesmerized by the flaws in the painting that they kept looking into the painting until falling right into it.")
+print((name) + (verb) + " into the cold water and eventually started panicking.")
+print("This did not stop " + (name) + " and to avoid dying " + (name) + " began " + (verb2))
+print((name) + " saved themself and learned to not let emotions to consume them.")
+
+
+
+
+
